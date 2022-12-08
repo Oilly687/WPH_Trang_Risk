@@ -218,6 +218,7 @@ $(document).ready(function() {
                     status = "N";
                 }
             }
+            
 
             if (status == ""){
              $.ajax({
